@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelali</h1>
 <h3 align="center">A passionate frontend/backend developer from algeria</h3>
 
-- 🌱 I’m currently learning **CCNA**
+- 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **ferrouiabdel@gmail.com**
 
